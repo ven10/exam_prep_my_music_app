@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="21dba3fc-d10c-4886-af63-3fdb64a572a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/albums/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/albums/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -157,6 +159,7 @@
       <workItem from="1727434945893" duration="1220000" />
       <workItem from="1727436647020" duration="1315000" />
       <workItem from="1727437968824" duration="2239000" />
+      <workItem from="1727440217826" duration="2378000" />
     </task>
     <servers />
   </component>
