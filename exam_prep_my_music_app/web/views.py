@@ -1,7 +1,8 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.views import generic as views
 
 from exam_prep_my_music_app.profiles.models import Profile
+from exam_prep_my_music_app.web.forms import CreateProfileForm
 
 
 # Create your views here.
@@ -11,7 +12,16 @@ def get_profile():
     return Profile.objects.first()
 
 def create_profile(request):
-    return render(request, "web/home-no-profile.html")
+    form = CreateProfileForm(request.POST or None)
+
+    if form.is_valid():
+        form.save()
+        return redirect("index")
+
+    context = {
+        'form': form,
+    }
+    return render(request, "web/home-no-profile.html", context)
 
 
 def index(request):

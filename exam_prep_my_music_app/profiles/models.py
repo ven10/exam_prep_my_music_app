@@ -9,7 +9,6 @@ def validate_username(username):
     if not is_valid:
         raise ValidationError("Ensure this value contains only letters, numbers, and underscore.")
 
-
 class Profile(models.Model):
     MIN_USERNAME_LENGTH = 2
     MAX_USERNAME_LENGTH = 15
