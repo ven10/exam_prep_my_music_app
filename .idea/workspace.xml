@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21dba3fc-d10c-4886-af63-3fdb64a572a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exam_prep_my_music_app/web/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/569580e3-d17a-464f-8b8e-2974b4e5ef63/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/exam_prep_my_music_app.5s43LA/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b48ea4d9-7cad-4c0b-8076-fdf519ddf39f/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/exam_prep_my_music_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exam_prep_my_music_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/profiles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/profiles/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/web/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/web/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/web/home-no-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +77,8 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "postgresql"
+      "postgresql",
+      "sqlite"
     ]
   }
 }]]></component>
@@ -183,7 +166,7 @@
       <workItem from="1727436647020" duration="1315000" />
       <workItem from="1727437968824" duration="2239000" />
       <workItem from="1727440217826" duration="2378000" />
-      <workItem from="1729084108489" duration="5751000" />
+      <workItem from="1729084108489" duration="6245000" />
     </task>
     <servers />
   </component>
