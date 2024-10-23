@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21dba3fc-d10c-4886-af63-3fdb64a572a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/albums/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/albums/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep_my_music_app/albums/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep_my_music_app/albums/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/album-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/web/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/web/home-with-profile.html" afterDir="false" />
-    </list>
+    <list default="true" id="21dba3fc-d10c-4886-af63-3fdb64a572a8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +185,7 @@
       <workItem from="1727437968824" duration="2239000" />
       <workItem from="1727440217826" duration="2378000" />
       <workItem from="1729084108489" duration="15359000" />
-      <workItem from="1729685899413" duration="5252000" />
+      <workItem from="1729685899413" duration="5561000" />
     </task>
     <servers />
   </component>
