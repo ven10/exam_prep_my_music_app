@@ -19,10 +19,10 @@
               <p class="name">Name: {{ album.name}}</p>
               <p class="artist">Artist: {{ album.artist_name}}</p>
               <p class="genre">Genre: {{ album.genre }}</p>
-              <p class="price">Price: ${{ album.price }}</p>
+              <p class="price">Price: ${{ album.price|floatformat:2 }}</p>
             </div>
             <div class="btn-group">
-              <a href="#">Details</a>
+              <a href="{% url "details_album" pk=album.pk %}">Details</a>
             </div>
           </div>
         </div>
